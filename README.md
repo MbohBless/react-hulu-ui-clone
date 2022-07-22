@@ -1,34 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This is just a little project which makes use of react js, next js and tailwind css to build a highly responsive hulu clone app i performs some api calls from  ` movie db ` 
+![little image illustrating how the application functions](https://lh3.googleusercontent.com/pw/AM-JKLVJGK1qcGn_UyTRPsJWc6hIjVbF5aJFLX7K1OMUdQqiCAigO6U6PGfxzkBhmQbqLwiB8jXhrZqaBDG6yBtL5Jhr59cw-jalGyRvPtJud7vKX7bnz9GlyyffNMkvn1xZL1xog5KUAfiR6DZzZgszfcIPZw=w904-h535-no?authuser=0)
+with mobile you have this view ![mobile view of the project](https://lh3.googleusercontent.com/Mq7OnyXWZTpXXhp0qoBoKnPtIWD7uaraJvh_YVe7IXsTqjL6wjEdVlyjwCvUgUkc2nT8LmxHzvk-2eDVFPiCloCb4n5JlpotN3VUOUaMqJ5Sv4L4i_vBbhpmbcOhV6qr92mao6sKQSpGr8Mhs8_N41S-xngkktfz02p3tvWJj8UjNJqjnelOOt5C8Jt1J254kfNB9j23U0Nms2dhaLZll_G1eEh5UV2pdHWtka7Gis4Wlf3mxVrae1LPpOqVb8YLSipDs6SBJ5irkhjW_QIXVmFWMbeO4TqpQzZXmn0eYNhIlo0jNx0-vUQ8rygnA3e8OweoSeJ7UopkyAqiXEb6031zVjpYXBxjVkD6b5qTerUbAOkL9TmGCOp4LS2oTiBevl1bBL2tpJTjF76sBwQqMp8rHx8jEyxx3VzHVBGBY9IcpYHLs82fjUcBBg3j96k40KqFgYgl-rCSNCghWLnrWyno2Mrk7NXbpH6UmMFXpfR8FsrehIqvcDDhUQm_3rpSZVUMuCJNMEHKxSDSyElD2XQ0z3_lVRUrww8WUGp87fkjCEbdjVvX_w3jD3nJZ-cxcoR8GHFVhI8PFzr6HbvW6kZfgRkW9TxNjTtJUesZs66SR5VQQJ9vsahGP2U03JSuTwWPAsJIYNn89AGkk8Npv9bgACiKayjAurxe_l2R-PRFDYGqJ2bVAwofjrH0NMgVkyCKQrY1FyOxSWe-hqpCf9ToWWjvX4wB5VKm26qnoB1MJLG8qPL6efF7sO-U=w524-h1164-no?authuser=0)
+with the power of next js to perform lazy loading, it makes image loading fast for all platforms by only loading image qualities based on screen resolution
